@@ -35,7 +35,7 @@ public class ATM {
 
     /**
      *
-     * @param theBank
+     * @param theBank a variable
      * @param sc
      * @return
      */
