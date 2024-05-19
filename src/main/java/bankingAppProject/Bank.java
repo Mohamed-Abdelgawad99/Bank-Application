@@ -13,6 +13,7 @@ public class Bank {
      *
      * @param bankName
      */
+
     public Bank(String bankName) {
         this.name = bankName;
         this.users = new ArrayList<User>();
